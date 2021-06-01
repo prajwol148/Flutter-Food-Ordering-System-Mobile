@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medhavicafeteria",
+  "private_key_id": "8acfb94fbfc419ed0a643a25fc8eeb7fa22f37e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPGMutBPj3L6vK\nYyGR/FsmguCT/ud27r8Tyj1/4QEu4Z9SWzaLmzJqu+R1zsadYtumKeJscmlSyw6u\npzbcQy6tM5jFSMxeOTSnlNdMqH0khU4tKNWQ7WJaQ/sAlHFRgekpJxtbfdVGG6/o\naGDV0CAhSMPkAnFP9s9gn750sxAcBbIQ1r4zdBmJfW5R84LBQJvGuZXmMn6Dv6dm\n1dJQLJD7yDNyYszmcD7rq/Uj7sAMXXCsb4XvNeOkD2YDNnC99fQsoLW1GrUgbdmu\n/0sOKpVDNpCWLlD7HuQN7lki23YBU2LrMQz93cZMwKlXsw5Di0Ov7WgeHZaQUGf3\nr+i9hWwhAgMBAAECggEAFxvKfIjyibyVkgv7Nl+Z+rik+tFt4LuCePgugVG9Rqxh\n9cNMJjRsamcoaEv5sB3wWb+m1JuPXbL0DolrZxukVI0iDS4J7udvFOcI89S7zOOI\nMevHvW1QdkJHLRtLx31iwWYS2W4TPIypFi+Q/8ZqAeYF2HL6iI7Tg4eYkrD+F4Ao\nHpzJQuzQLQ8GlYCG3WA9OxwTUqgePN4i1nFJqzirwosDzxy1OIwpsJiUjdOPglgb\nH28cCBzIbMAt/VYgvHBWeEXolHKngy23QMwc2JkdUDCWh3IQ3M1rEEUrwddyIfh7\nQQKa6L5AHWTd+WGKG+w7CkHGRaqbKzcVB4GbLdnqVwKBgQDFIjgNpT29eRpcK6Lz\n1PwXVazg2wT/cI9I1ic/toUPMoUsjcbddjkcWxcGMeHkiyt+fRnKQInlh3r8e0ob\ncrIah2rGiNnTFVc4P4dOyOW9SmGpjjFGFVmh+NTbbnnpvrZPAwOS/qOOnaQws+Gt\nc+4OE2LFvFfph8MT/lp6N3QrKwKBgQC508K+7jcPA6vHQtequuVt7Pj1duD9i51r\nMJDFBWgDKnHoctZwgKRp0W/cWMOqrqq4ch0uV82QxCr6/RobvFIcj3fT2vZGM0KY\nU/5iyfG+8QiA5/j4r8yKye2HELdSPvI9iSThJAz55yHnn49zz+JRL9F7ZC6PyBhx\nXGgsZKLv4wKBgQCjrdDay5uiyX2wj+7CA9K4UUO0g0X4De56bI20IgkC4FCg+Kro\n0LOErsFEPICx8TfQ03BpdQLKGJ5uKrQSbD4jNtLaO2CZGfwMUPs42Ceg7rR+Qvj4\nltuQV/nspCMHiHj4y6jZESKeVJeydHjqOvqqpz/4rHRWC4pW/HcFSSvkdwKBgCHl\nIFaXOO/CKakU5iW8JXEhkl+jqXJV7wbIOv/U9p3tNg3CNJ8ct+CdVRwKDNarOXSf\nS/dSCKrpPTW+yO5aMVgIS0EXZWh0nScP2wzF7RR4/qYUqfMijdqa7np+cBHObX0P\n8OwoGT3UDPkkv5POTWeloz4wjdWoF91Fj7LZQGclAoGACy9s73F0nFc42tBmLtlt\n/8CGlKLZurS/3MSUy9W20Pkw+6SpL1NrmTCAgcQXtRzgSJ3X1wfl7ygIrkf2yMdQ\n7JqglUeSX/K1iJgmwPcjngVIGZq8HPOtdnLMPu647XngKeVrCCGwk1rML6aYIMcM\n7MpunxSjKd1c5vpxIPqOc4Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-512@medhavicafeteria.iam.gserviceaccount.com",
+  "client_id": "109922278251818794950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-512%40medhavicafeteria.iam.gserviceaccount.com"
+}

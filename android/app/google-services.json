@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "273772793570",
+    "firebase_url": "https://medhavicafeteria-default-rtdb.firebaseio.com",
+    "project_id": "medhavicafeteria",
+    "storage_bucket": "medhavicafeteria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273772793570:android:fc80641be56e272bd418bb",
+        "android_client_info": {
+          "package_name": "com.medhavi.cafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273772793570-to4r8a4do5v6g2opu5qgknplqg72llh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvTMDhUe8n4h_X9PukuNJrodI4NxyK4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273772793570-to4r8a4do5v6g2opu5qgknplqg72llh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273772793570:android:504c9fdea360c72fd418bb",
+        "android_client_info": {
+          "package_name": "com.medhavicafeteria.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273772793570-to4r8a4do5v6g2opu5qgknplqg72llh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvTMDhUe8n4h_X9PukuNJrodI4NxyK4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273772793570-to4r8a4do5v6g2opu5qgknplqg72llh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

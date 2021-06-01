@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medhavicafeteria",
+  "private_key_id": "5fac4b70cccbae14801f75920d8887d6cc3e4b29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr3UCj8l0h6GNN\nD76hKrDK6SWAR7pKvtK7XHcgX+lHQogwRlo0PL7krKO7XJj8O5JdSKJuRBo5VsA+\n9hjxckMB+gLA2Wdx2JGob2Gp/1YQSnCtFj9Z2JaO/eHKQ+AvPefho5LQcLn87WJz\nlruC6iYoous8sDEnYfGsSGfesNzYigTyLuWi2Ozofr80JmFhdFzK/aZTxAGX3Wd/\n9L1W3XfNhDGdBQxj6B8OF6hTpz7vrUeLlexD0dXfpN/cXYlj4I4cm11odI5zH/qv\nsDMBRZ/3YDSwyXl0PkQEz9Geqv64r+RtiZriHmponG6J6WE69xB2/A9emwzJs3+L\n1Ty09GY3AgMBAAECggEAU7H6VjzjvO0KWs9lkuAS26YBtMB5iQf34PVtMA91L9ZH\nM1c3e4PvpLYsQESeXgt2wkXqkE9LBAxqr96yE/cEidRifd8B4O/KM2AWjC6ED4fo\n6mnQrSTsYTNjP1ihtu/rWjeJ+kdDU9iY3tiTdXQo5BY+/72AGoE4q6FRMCIqUqrJ\n62UrbEkXdihOWF92S+C2yUYTq74fhSdpeniwEpbu1TtzHmCgYtrl41bwMgNcAp/K\nuNqb7fvkrF0QQT6G0+yE9UEW4wN8cPPeBV1BMaWLEGCINxVGtzihx1ba/rxwKk0C\no0271qwSv30NRgtCoVheJa8DZFAEp096JAZl6iEc+QKBgQDxAMrYdtw/GSpX+0a4\nndWc+DCNGAbMN4n7Jdw69szFoGy7IqcV4451GDDLMZzCUbEYHw5ndgNy1urI3DIJ\nKPLR0MqB+jbwO6LoCNqbJBbOzv9c0T01EJQV1op+2AupWbZ8SzV0H/Us3mhBzMZU\n4Q0yV9skFLkdxCnaGac7O0a/eQKBgQC2jxILWvqfoF4XwDmAzMWuzG/9OIhDOP2U\nWsCMdKXEKY1SvrnATGMCuZyr7nLDDyxvEympIIm/k49DiSpZaoUBAN6bu81yOZ6m\nVPGjiR1v/Ft23TjK1huyNrAdWqRMpFwtE1y6mgH9SBxixtileYdvkLQF30gixYss\nuSSNpCZ3LwKBgH+5yMdyLwXt42gfjvqXA7gePTT5z9h5ctI83XwOgrYWcKm5Es5h\n/IUIXgvCbm759p5vDyY8AFXjmyj6sjXyksYqHrlGD8nAAXVyA9GHDeNrByF87zBp\naeItAtd4zq1hE3rKLTkvGrQ95wlAarhfUawlrclwhi9FYFzrjZqxrqwZAoGBALGu\naleXAxteEHZ5Zv5PT5Aj9lO1NBqJW3WLJqEN31EfSCdi7pOVRUCfuzcz64qiOBMb\nyY6M1sUZL3UCCa/hlvY1DHTywrEMF7e4MT+D8pzON49nHSF+ZpJ728mWMRdPWU+d\n6sDLqGgGSWpyMuZLdGBHrI+SlDkTn7O1tzgMrkuNAoGAGPQvVYfp8OOGZyENIWgh\nNaRBl+VlDRXJogw2SerT/ixssIC4tJDk8Wqs9t9WdVDDI4YDeVgUMSfq4rWTCMpY\nHU+x1ai3sAseqWtq0xUqy1QVisbPfItm5siIp10F96YHX+LxHXr4e1sMUrown7Gm\nyR2iPa1IU/gUAVc9DIdBNBw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7cad1@medhavicafeteria.iam.gserviceaccount.com",
+  "client_id": "113509803432680351254",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7cad1%40medhavicafeteria.iam.gserviceaccount.com"
+}
